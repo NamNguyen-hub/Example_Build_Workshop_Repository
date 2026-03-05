@@ -1,2 +1,4 @@
 # Example_Build_Workshop_Repository
 Example_Build_Workshop_Repository
+
+Author: Nam Nguyen
